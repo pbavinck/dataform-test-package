@@ -1,0 +1,7 @@
+{
+    "name": "dataform-test-package",
+    "version": "0.0.1",
+    "description": "Dataform package",
+    "main": "index.js",
+    "author": "Peter Bavinck"
+}
