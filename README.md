@@ -18,7 +18,7 @@ I.e. add the following
     "name": "repository-name",
     "dependencies": {
         "@dataform/core": "3.0.0",
-        "dataform-scd": "https://github.com/pbavinck/dataform-test-package/archive/v0.4.tar.gz"
+        "test-package": "https://github.com/pbavinck/dataform-test-package/archive/v0.4.tar.gz"
     }
 }
 ```
